@@ -31,7 +31,8 @@ O projeto final consistiu na **criação de um ebook original**, combinando text
 | Ferramenta | Função |
 |-------------|--------|
 | 💬 **ChatGPT** | Geração e estruturação do roteiro textual do ebook |
-| 🎨 **Gemini_** | Criação das imagens e elementos visuais |
+| 🎨 **<img width="40" height="13" alt="image" src="https://github.com/user-attachments/assets/996d183d-acc5-4daf-b4cf-b5dba1d76f5c" />
+** | Criação das imagens e elementos visuais |
 | 🖼️ **PowerPoint** | Diagramação e design final do ebook |
 
 ---
