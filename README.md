@@ -1,8 +1,9 @@
 # Criando_um_Ebook_com_IAs_Generativas
 
+# 📘 Projeto: Ebook “Outubro Rosa” – Fundamentos de IA Generativa  
+
 <img width="906" height="402" alt="image" src="https://github.com/user-attachments/assets/afb64fd1-68c7-4c71-a0f0-eb8e914f047e" />
 
-# 📘 Projeto: Ebook “Outubro Rosa” – Fundamentos de IA Generativa  
 ## 🩷 Sobre o Projeto  
 
 Este projeto foi desenvolvido durante o **Bootcamp Universia – Fundamentos de IA Generativa**, em parceria com a **[DIO (Digital Innovation One)](https://www.dio.me)**.  
